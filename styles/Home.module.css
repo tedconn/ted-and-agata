@@ -49,10 +49,10 @@
 }
 
 .title {
-  font: 800 40px Tilt Warp;
+  font: 800 35px Tilt Warp;
   margin: 0;
-  line-height: 1.15;
-  font-size: 4rem;
+  line-height: 1.05;
+  font-size: 3.8rem;
   color: white;
   -webkit-text-fill-color: white;
   -webkit-text-stroke: 1px;
