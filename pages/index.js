@@ -15,7 +15,7 @@ export default function Home() {
     );
   }
 
-  const countDownDate = new Date('March 24, 2023 09:00:00').getTime();
+  const countDownDate = new Date('April 28, 2023 16:40:00').getTime();
 
   var now = new Date().getTime();
   var timeleft = countDownDate - now;
