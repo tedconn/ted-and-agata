@@ -64,7 +64,8 @@ export default function Home() {
           {days} days, <br />
           {hours} hours, <br />
           {minutes} minutes, <br />
-          {seconds} seconds
+          {seconds} seconds, <br />
+          🍆
         </h1>
       </main>
     </div>
