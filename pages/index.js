@@ -1,6 +1,9 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import React, { useState } from 'react';
+import Image from 'next/image';
+
+import teduardoImage from '/Ted_As_Coach_Bert.png';
 
 export default function Home() {
   function getColor() {
@@ -67,6 +70,7 @@ export default function Home() {
           {seconds} seconds, <br />
           🍆
         </h1>
+        <Image src={teduardoImage} alt="Teduardo" width={1000} height={1333} />
       </main>
     </div>
   );
