@@ -70,7 +70,7 @@ export default function Home() {
           {seconds} seconds, <br />
           🍆
         </h1>
-        <Image src={teduardoImage} alt="Teduardo" width={1000} height={1333} />
+        <Image src="/Ted_Coach_Bert.png" alt="Teduardo" />
       </main>
     </div>
   );
