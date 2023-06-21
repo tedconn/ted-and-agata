@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css';
 import React, { useState } from 'react';
 import Image from 'next/image';
 
-import teduardoImage from 'C:\\!PROJEKTY_PRYWATA\\ted-and-agata\\pages\\images\\Ted_As_Coach_Bert.png';
+import teduardoImage from 'C:\!PROJEKTY_PRYWATA\ted-and-agata\public\Ted_As_Coach_Bert.png';
 
 export default function Home() {
   function getColor() {
