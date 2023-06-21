@@ -70,7 +70,7 @@ export default function Home() {
           {seconds} seconds, <br />
           🍆
         </h1>
-        <Image src="/Ted_Coach_Bert.png" alt="Teduardo" />
+        <Image src="/Ted_As_Coach_Bert.png" alt="Teduardo" />
       </main>
     </div>
   );
